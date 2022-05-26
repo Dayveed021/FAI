@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\letter"
+		},
+		{
+			"path": "..\\mycv"
+		},
+		{
+			"path": "..\\My Portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fff"
+	}
+}

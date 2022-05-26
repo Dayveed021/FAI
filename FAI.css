@@ -1,0 +1,71 @@
+.body {
+  background-color: yellow;
+  line-height: 50px;
+  width: 200px;
+}
+
+.body ul {
+  list-style: none;
+}
+
+.body .fa-facebook {
+  color: blue;
+}
+
+.body .fa-youtube {
+  color: red;
+}
+
+.body .fa-linkedin {
+  color: blue;
+}
+
+.body .fa-github {
+  color: black;
+}
+
+.body .body2 {
+  color: blue;
+}
+
+.body2 {
+  background-color: yellow;
+  width: 400px;
+  position: relative;
+  height: 70px;
+  padding: 30px;
+  margin-top: 0px;
+}
+
+.body2 ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  list-style: none;
+}
+
+.body2 .fa-twitter {
+  color: skyblue;
+}
+
+.body2 .fa-pinterest {
+  color: red;
+}
+
+.body2 .fa-instagram {
+  color: red;
+}
+
+.body2 .fa-whatsapp {
+  color: green;
+}
+
+h1 {
+  color: black;
+  font-weight: 900;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*# sourceMappingURL=FAI.css.map */
